@@ -1,0 +1,10 @@
+eventlet 
+facenet_pytorch 
+faiss-cpu
+firebase-admin
+flask
+flask_cors
+flask_session
+flask-socketio
+pyngrok
+ultralytics
